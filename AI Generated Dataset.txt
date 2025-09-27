@@ -1,4 +1,3 @@
-chatgpt generated
 The term "fake news" refers to information that is presented as news but is actually false or intentionally misleading.
 Oftentimes, fake news is created with the intention of damaging the reputation of a particular individual or to generate revenue through advertising.
 Fake news can be considered a form of yellow journalism, as it intentionally misrepresents or spreads false information through traditional news media outlets, and more recently, online public media platforms.
@@ -2173,6 +2172,7 @@ Chapter 2 reviews the state-of-the-art models used for identifying new research 
 In Chapter 3, we outline the architecture of the proposed model.
 In Chapter 4, we discuss the results of the proposed model on the dataset.
 In Chapter 5, we conclude our research.
+
 
 
 
